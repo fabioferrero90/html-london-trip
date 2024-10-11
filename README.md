@@ -19,4 +19,4 @@ Replicare una pagina web con il solo utilizzo di HTML, partendo da uno screensho
 
 ---
 
-<img src="https://s3-alpha.figma.com/hub/file/4214377013/d3b45193-1d7f-44dd-b460-e1a4e39a0bfa-cover.png">
+<img src="readme-cover-img.png">
