@@ -20,3 +20,10 @@ Replicare una pagina web con il solo utilizzo di HTML, partendo da uno screensho
 ---
 
 <img src="readme-cover-img.png">
+
+---
+
+---
+<strong>Lo screenshot della pagina fornita dal coach è il seguente:</strong>
+
+<img src="assets/pagina-da-riprodurre.webp">
